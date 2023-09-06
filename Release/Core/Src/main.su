@@ -1,0 +1,9 @@
+../Core/Src/main.c:89:6:HAL_CAN_RxFifo0MsgPendingCallback	0	static
+../Core/Src/main.c:95:10:Cal_dt	0	static
+../Core/Src/main.c:103:6:HAL_TIM_PeriodElapsedCallback	0	static
+../Core/Src/main.c:108:10:Moving_avg	16	static
+../Core/Src/main.c:115:6:Seperation_int_and_dec	8	static
+../Core/Src/main.c:263:6:SystemClock_Config	88	static,ignoring_inline_asm
+../Core/Src/main.c:126:5:main	96	static,ignoring_inline_asm
+../Core/Src/main.c:550:6:HAL_GPIO_EXTI_Callback	0	static
+../Core/Src/main.c:561:6:Error_Handler	0	static,ignoring_inline_asm
